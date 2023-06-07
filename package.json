@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back-end for eCommerce Website",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/AngadBatth/ecommerce-backend.git"
   },
+  "bugs": {
+    "url": "https://github.com/AngadBatth/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/AngadBatth/ecommerce-backend#readme",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "AngadBatth",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
